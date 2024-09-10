@@ -15,3 +15,5 @@ readme
     |-- https://deceitful.link/signal
     |-- https://deceitful.link/discord
     •-- irc://tilde.chat/aei
+
+you'll figure it out.

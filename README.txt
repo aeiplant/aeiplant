@@ -1,4 +1,4 @@
-im aei. i make stuff.
+hi, im aei. i make stuff.
 
 readme
 |-- experience
@@ -15,4 +15,5 @@ readme
     |--- signal: aei.86
     |    \-- https://deceitful.link/signal
     |-- discord: aei.86
+    |   \-- https://deceitful.link/discord
     •------ irc: aei on tilde.chat

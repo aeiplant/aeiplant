@@ -13,7 +13,7 @@ readme
 •-- contact
     |--- mailto: aei [at] aei.sh
     |--- signal: aei.86
-    |    \-- https://deceitful.link/signal
+    |  \-- https://deceitful.link/signal
     |-- discord: aei.86
-    |    \-- https://deceitful.link/discord
+    |  \-- https://deceitful.link/discord
     •------ irc: aei on tilde.chat

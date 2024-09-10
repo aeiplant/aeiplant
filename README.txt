@@ -10,7 +10,7 @@ readme
 |   |-- next.js (learning)
 |   •-- python  (learning)
 | 
-`-- contact
+•-- contact
     |--  mailto: aei [at] aei.sh
     |--  signal: https://deceitful.link/signal
     |-- discord: aei.86

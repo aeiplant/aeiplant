@@ -11,7 +11,7 @@ readme
 |   •-- python  (learning)
 | 
 •-- contact
-    |--  mailto: aei [at] aei.sh
-    |--  signal: https://deceitful.link/signal
+    |--- mailto: aei [at] aei.sh
+    |--- signal: https://deceitful.link/signal
     |-- discord: aei.86
-    •--     irc: aei on tilde.chat
+    •------ irc: aei on tilde.chat

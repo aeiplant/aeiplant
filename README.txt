@@ -12,8 +12,8 @@ readme
 | 
 •-- contact
     |-- mailto:aei@aei.sh
-    |-- https://deceitful.link/signal
-    |-- https://deceitful.link/discord
+    |-- https://url.aei.sh/signal
+    |-- https://url.aei.sh/discord
     •-- irc://tilde.chat/aei
 
 you'll figure it out.

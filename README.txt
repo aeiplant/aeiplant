@@ -14,6 +14,6 @@ readme
     |-- mailto:aei@aei.sh
     |-- https://url.aei.sh/signal
     |-- https://url.aei.sh/discord
-    •-- irc://tilde.chat/aei
+    •-- ircs://tilde.chat/aei
 
 you'll figure it out.

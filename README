@@ -3,7 +3,10 @@ hi, im aei. i make stuff.
 readme
 |-- experience
 |   |-- html + css
-|   |-- some javascript (learning, node.js, astro.build + 11ty.dev)
+|   |-- some javascript (learning)
+|   |   |-- (node.js)
+|   |   •-- (astro.build + 11ty.dev)
+|   |
 |   |-- a little php
 |   |-- the penguin os (linux)
 |   •-- python  (learning)
